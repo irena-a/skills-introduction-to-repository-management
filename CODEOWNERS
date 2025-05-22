@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @irena-a
+/src/backend/database.py      @irena-a
+/src/backend/routers/auth.py  @irena-a
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @irena-a
